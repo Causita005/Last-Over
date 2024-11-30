@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: 96634195893c1e146a6e972bba8ad668
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2680368600262395786
+    second: espinas-Photoroom_0
+  - first:
+      213: 7492082837864260413
+    second: espinas-Photoroom_1
+  - first:
+      213: 4567048866475687368
+    second: espinas-Photoroom_2
+  - first:
+      213: -3608130743263195033
+    second: espinas-Photoroom_3
+  - first:
+      213: -3420326249425917250
+    second: espinas-Photoroom_4
+  - first:
+      213: 5761752905205350428
+    second: espinas-Photoroom_5
+  - first:
+      213: -464532229531773458
+    second: espinas-Photoroom_6
+  - first:
+      213: 3781545994680912093
+    second: espinas-Photoroom_7
+  - first:
+      213: -7833852103129718822
+    second: espinas-Photoroom_8
+  - first:
+      213: 8378443903893937582
+    second: espinas-Photoroom_9
+  - first:
+      213: 3602227591440001206
+    second: espinas-Photoroom_10
+  - first:
+      213: -6481203253757445627
+    second: espinas-Photoroom_11
+  - first:
+      213: -7526120882409040711
+    second: espinas-Photoroom_12
+  - first:
+      213: -6204684916007840172
+    second: espinas-Photoroom_13
+  - first:
+      213: 5251079994717375905
+    second: espinas-Photoroom_14
+  - first:
+      213: -9173543186009667260
+    second: espinas-Photoroom_15
+  - first:
+      213: -5334246858037709583
+    second: espinas-Photoroom_16
+  - first:
+      213: 1823210420613928130
+    second: espinas-Photoroom_17
+  - first:
+      213: 1473137832144097233
+    second: espinas-Photoroom_18
+  - first:
+      213: -3409232781404043071
+    second: espinas-Photoroom_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: espinas-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 189
+        width: 1017
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678bf3295fa6dcad0800000000000000
+      internalID: -2680368600262395786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espinas-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 18
+        width: 148
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3323b275a939f760800000000000000
+      internalID: 7492082837864260413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espinas-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 128
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd322e2fba616f30800000000000000
+      internalID: 4567048866475687368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espinas-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 20
+        width: 57
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76091a8a4385dedc0800000000000000
+      internalID: -3608130743263195033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espinas-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 96
+        width: 83
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba2607d56f8880d0800000000000000
+      internalID: -3420326249425917250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espinas-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 96
+        width: 116
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10075e7dbbd5ff40800000000000000
+      internalID: 5761752905205350428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espinas-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 96
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5d9000666ad89f0800000000000000
+      internalID: -464532229531773458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espinas-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 96
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8c1c2fb00ca7430800000000000000
+      internalID: 3781545994680912093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espinas-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 96
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf910a8401984390800000000000000
+      internalID: -7833852103129718822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espinas-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 95
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead9226f656364470800000000000000
+      internalID: 8378443903893937582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espinas-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 96
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b864e3b8eeadf130800000000000000
+      internalID: 3602227591440001206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espinas-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 95
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a7ea6caf32e06a0800000000000000
+      internalID: -6481203253757445627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espinas-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 19
+        width: 75
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b41c5bbee8dd8790800000000000000
+      internalID: -7526120882409040711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espinas-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 19
+        width: 88
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456d02651f784e9a0800000000000000
+      internalID: -6204684916007840172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espinas-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 19
+        width: 95
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad0a4c0f659fd840800000000000000
+      internalID: 5251079994717375905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espinas-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 19
+        width: 91
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449403a631701b080800000000000000
+      internalID: -9173543186009667260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espinas-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 19
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f43b62aeb2f8f5b0800000000000000
+      internalID: -5334246858037709583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espinas-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 19
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4db7fb7385d4910800000000000000
+      internalID: 1823210420613928130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espinas-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 27
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df4326ad03a17410800000000000000
+      internalID: 1473137832144097233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espinas-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 30
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c88bc329d8ffa0d0800000000000000
+      internalID: -3409232781404043071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

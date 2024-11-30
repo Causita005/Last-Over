@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: 73ba72c05e064d94d913a90e7cc140c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6964749051933311753
+    second: Partes-del-cuerpo-Photoroom_0
+  - first:
+      213: 8684530046523922504
+    second: Partes-del-cuerpo-Photoroom_1
+  - first:
+      213: 251055984880958048
+    second: Partes-del-cuerpo-Photoroom_2
+  - first:
+      213: 3496481620294595979
+    second: Partes-del-cuerpo-Photoroom_3
+  - first:
+      213: 1348436789753103218
+    second: Partes-del-cuerpo-Photoroom_4
+  - first:
+      213: -5239509637081662978
+    second: Partes-del-cuerpo-Photoroom_5
+  - first:
+      213: -5151609246345980288
+    second: Partes-del-cuerpo-Photoroom_6
+  - first:
+      213: 5121982565706077814
+    second: Partes-del-cuerpo-Photoroom_7
+  - first:
+      213: -7098594829045751320
+    second: Partes-del-cuerpo-Photoroom_8
+  - first:
+      213: 5222627765684441245
+    second: Partes-del-cuerpo-Photoroom_9
+  - first:
+      213: -5744818609476545172
+    second: Partes-del-cuerpo-Photoroom_10
+  - first:
+      213: -1925409859742016844
+    second: Partes-del-cuerpo-Photoroom_11
+  - first:
+      213: -8103431866181166005
+    second: Partes-del-cuerpo-Photoroom_12
+  - first:
+      213: -4923267891645192029
+    second: Partes-del-cuerpo-Photoroom_13
+  - first:
+      213: -2415687050852351408
+    second: Partes-del-cuerpo-Photoroom_14
+  - first:
+      213: 4989610534894685127
+    second: Partes-del-cuerpo-Photoroom_15
+  - first:
+      213: 7917733327655478250
+    second: Partes-del-cuerpo-Photoroom_16
+  - first:
+      213: -4394420737621237484
+    second: Partes-del-cuerpo-Photoroom_17
+  - first:
+      213: -5794633908372183656
+    second: Partes-del-cuerpo-Photoroom_18
+  - first:
+      213: -3749204680648863386
+    second: Partes-del-cuerpo-Photoroom_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Partes-del-cuerpo-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 606
+        width: 351
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9034936ac52c7a060800000000000000
+      internalID: 6964749051933311753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Partes-del-cuerpo-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 606
+        width: 123
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848d3409016a58870800000000000000
+      internalID: 8684530046523922504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Partes-del-cuerpo-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 773
+        width: 236
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ab09d861eeb7300800000000000000
+      internalID: 251055984880958048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Partes-del-cuerpo-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 363
+        width: 315
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85775d228ff58030800000000000000
+      internalID: 3496481620294595979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Partes-del-cuerpo-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 104
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2734d4fad1c96b210800000000000000
+      internalID: 1348436789753103218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Partes-del-cuerpo-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 428
+        width: 70
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9f284ceb58947b0800000000000000
+      internalID: -5239509637081662978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Partes-del-cuerpo-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 447
+        width: 175
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0861ee15faec188b0800000000000000
+      internalID: -5151609246345980288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Partes-del-cuerpo-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 390
+        width: 192
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67697ae8100f41740800000000000000
+      internalID: 5121982565706077814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Partes-del-cuerpo-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 525
+        width: 216
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1ad4aec99bc7d90800000000000000
+      internalID: -7098594829045751320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Partes-del-cuerpo-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 346
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9096bf38408a7840800000000000000
+      internalID: 5222627765684441245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Partes-del-cuerpo-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 292
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65d81b79ed4640b0800000000000000
+      internalID: -5744818609476545172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Partes-del-cuerpo-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 291
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bada0f0fe19745e0800000000000000
+      internalID: -1925409859742016844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Partes-del-cuerpo-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 233
+        width: 200
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cd0bac6a3da8f80800000000000000
+      internalID: -8103431866181166005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Partes-del-cuerpo-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 152
+        width: 214
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8e668efe90dabb0800000000000000
+      internalID: -4923267891645192029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Partes-del-cuerpo-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 33
+        width: 342
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0524f651d61c97ed0800000000000000
+      internalID: -2415687050852351408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Partes-del-cuerpo-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 188
+        width: 224
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbc1fb6858ae3540800000000000000
+      internalID: 4989610534894685127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Partes-del-cuerpo-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 196
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae32d25f28071ed60800000000000000
+      internalID: 7917733327655478250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Partes-del-cuerpo-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 52
+        width: 226
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411e97c2f91e303c0800000000000000
+      internalID: -4394420737621237484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Partes-del-cuerpo-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 142
+        width: 143
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895ea006923559fa0800000000000000
+      internalID: -5794633908372183656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Partes-del-cuerpo-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 34
+        width: 366
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66151b3053628fbc0800000000000000
+      internalID: -3749204680648863386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
